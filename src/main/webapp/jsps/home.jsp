@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>Megha</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions. GitHub WebHook demo</h1>
+<h1 align="center">Hello everyone</h1>
 <h1 align="center"> welcome to learning Jenkins</h1>
 <hr>
 <div style="text-align: center;">
@@ -23,15 +23,15 @@
 		+91-9980923226,
 		devopstrainingbr@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:tamrakar.megha@gmail.com">Mail to Megha</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>Learning</p>
+<p align=center><small>Copyrights 2021 by <a href="http://google.com/">Mithun Technologies</a> </small></p>
 
 </body>
 </html>
