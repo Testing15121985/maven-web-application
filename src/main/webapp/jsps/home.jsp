@@ -17,12 +17,7 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions, 
-		Martha Halli,
-		Bangalore,
-		+91-9980923226,
-		devopstrainingbr@gmail.com
-		<br>
+				<br>
 		<a href="mailto:tamrakar.megha@gmail.com">Mail to Megha</a>
 	</span>
 </div>
@@ -31,7 +26,7 @@
 <hr>
 <hr>
 <p align=center>Learning</p>
-<p align=center><small>Copyrights 2021 by <a href="http://google.com/">Mithun Technologies</a> </small></p>
+<p align=center><small>Copyrights 2021 by <a href="http://google.com/">Megha</a> </small></p>
 
 </body>
 </html>
